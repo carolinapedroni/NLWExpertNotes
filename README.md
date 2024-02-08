@@ -26,7 +26,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O NLW Expert Notes é um app para ajudar a registrar suas anotações. Você pode adicionar a nota gravando em áudio ou se preferir em texto.
 
-- [Visite o projeto online](https://carolinapedroni.github.io/NLWExpertNotes)
+- Executando
+Após clonar o repositório, acesse a pasta do projeto e execute os comandos abaixo:
+
+<p align="left">
+- npm install <br/>
+- npm run dev <br/>
+</p> 
+
+- Acesse http://localhost:5173 para visualizar a aplicação.
 
 ## 🔖 Layout
 
