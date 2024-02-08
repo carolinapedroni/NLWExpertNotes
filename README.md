@@ -7,7 +7,7 @@ Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto NLW Expert Notes" src=".github/cover.png" width="100%">
+  <img alt="projeto NLW Expert Notes" src="./cover.png" width="100%">
 </p>
 
 <br>
